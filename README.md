@@ -1,2 +1,2 @@
-# tabnews.bun.version
+# Tab Bun
 Implementação do www.tabnews.com.br usando o Bun como runtime.
